@@ -1,0 +1,12 @@
+{
+  "name": "billpayapp",
+  "displayName": "billpayapp",
+  "expo": {
+    "name": "billpayapp",
+    "slug": "billpayapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
